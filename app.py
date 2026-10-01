@@ -362,6 +362,10 @@ both <b>documents</b> and <b>images</b>.
 <span class="status-dot"></span>
 Gemini AI Online
 </div>
+<div class="status-online">
+        <span class="status-dot"></span>
+        Flask API Online
+    </div>
 """,
         unsafe_allow_html=True
     )
